@@ -1,0 +1,41 @@
+div.container{
+	 background-image: url("bgym.jpeg");
+	 width: 1500px;
+	 height: 1000px;
+  background-repeat: no-repeat;
+  background-size: 100% 150%;
+  background-attachment: fixed;
+  margin: 10%;
+	padding: bottom 50px;
+	background-color: #f4f7f8;
+	border-radius: 8px;
+	font-family: Georgia, "Times New Roman", Times, serif;
+   
+}
+h3
+{
+	text-decoration-color: white;
+	text-align: center;
+	color: white;
+}
+
+   
+h1{
+	text-align: center;
+	color: white;
+	
+}
+div.formGroup{
+	font-size: 40px;
+	padding: 5px;
+	color: white;
+}
+label{
+	border-style: solid;
+	padding: 2px;
+	margin: 2px;
+	background-color: white;
+	opacity: 60%;
+	color: black;
+}
+

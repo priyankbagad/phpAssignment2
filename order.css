@@ -1,0 +1,15 @@
+div.pageContainer{
+	 margin: 10%;
+	padding: bottom 50px;
+	background-color: #f46774;
+	border-radius: 8px;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	width: 900px;
+	height: 300px;
+   
+}
+
+label{
+	width: 100px;
+
+}
